@@ -1,0 +1,6 @@
+Fiction,The Great Gatsby,F. Scott Fitzgerald,Printed,180
+Science,Quantum Physics 101,Albert Einstein,EBook,4.5
+Mystery,Gone Girl,Gillian Flynn,Printed,422
+Biography,Long Walk to Freedom,Nelson Mandela,EBook,6.2
+NonFiction,Atomic Habits,James Clear,Printed,320
+
